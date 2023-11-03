@@ -1,0 +1,46 @@
+@charset "UTF-8";
+@import "/resources/css/common.css";
+
+.swiper {
+	width: 100%;
+    height: 500px;
+}
+
+.swiper-slide {
+	text-align :center;
+  display: -webkit-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  -webkit-box-pack: center;
+  -ms-flex-pack: center;
+  -webkit-justify-content: center;
+  justify-content: center;
+  -webkit-box-align: center;
+  -ms-flex-align: center;
+  -webkit-align-items: center;
+  align-items: center;
+}
+
+.swiper-slide img {
+	margin-top : 70px;
+    object-fit: cover;
+}
+
+.swiper-slide1{
+	background-color : #B8E9FF;
+}
+
+.swiper-slide2{
+	background-color : #E4F0D5;
+}
+
+.swiper-slide3{
+	background-color : #CCD2F0;
+}
+
+.homeDiv1{
+	width : 100%;
+	height : 400px;
+	background-color : #00000070;
+}

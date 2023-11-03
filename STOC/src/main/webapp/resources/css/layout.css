@@ -1,0 +1,59 @@
+@charset "UTF-8";
+@import "/resources/css/common.css";
+
+
+.headerFrame{
+	width : 100%;
+	height : 120px;
+	position : fixed;
+	background-color : white;
+	z-index : 10;
+}
+
+.headerDiv{
+	width : 1200px;
+	height : 100%;
+	margin : 0 auto;
+}
+
+.headerDiv_logo{
+	width : 210px;
+	height : 100%;
+	display : inline-block;
+	text-align: center;
+}
+
+.headerDiv_logo img {
+	margin-top: 35px;
+    height: 50px;
+}
+
+.headerDiv_menu{
+	width : calc(100% - 214px);
+	margin-top : 60px;
+	height : 30px;
+	display : inline-block;
+	vertical-align : top;
+	text-align : right;
+}
+
+.menuBtn{
+	border : 0;
+	background-color : white;	
+	color : black;
+	height : 40px;
+	font-size : 18px;
+	cursor : pointer;
+	margin-left : 20px;
+	margin-right : 20px;
+	font-weight : bold;
+}
+
+.menuBtn:hover{
+	color : #024C8B;
+}
+
+.menuBtn_sel{
+	color : #024C8B;
+	border-bottom : 3px solid #024C8B;
+}
