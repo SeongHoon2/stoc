@@ -41,6 +41,78 @@
 
 .homeDiv1{
 	width : 100%;
-	height : 400px;
-	background-color : #00000070;
+	margin-top : 60px;
+}
+
+.homeDiv1_top{
+	width : 1200px;
+	height : 36px;
+	text-align : center;
+	margin : 0 auto;
+	font-size : 30px;
+	font-weight : bold;
+	color : #024C8B;
+}
+
+.homeDiv1_mid{
+	width : 1200px;
+	height : 250px;
+	margin : 0 auto;
+	margin-top : 30px;
+}
+
+.homeDiv1_mid_imgDiv{
+	width : 377px;
+	height : 250px;
+	margin-left : 10px;
+	margin-right : 10px;
+	display : inline-block;
+	vertical-align : top;
+}
+
+.homeDiv1_mid_imgDiv span{
+	font-size : 13px;
+	font-weight : bold;
+}
+
+.homeDiv1_mid_imgDiv_bot{
+	margin-top : 6px;
+}
+
+.homeDiv1_mid_imgDiv img{
+	width : 376px;
+	height : 230px;
+	border-radius: 12px;
+}
+
+.homeDiv1_bottom{
+    width: 1200px;
+    height: 40px;
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 30px;
+}
+
+.galAddBtn{
+	width : 140px;
+	height : 32px;
+	border : 0;
+	background-color : white;
+	font-size : 16px;
+	cursor : pointer;
+	color : #024C8B;
+	font-weight : bold;
+	border-radius : 3px;
+}
+
+.galAddBtn:hover{
+	background-color : #024C8B;
+	color : white;
+	transition : 300ms;
+}
+
+.homeDiv2{
+	width : 100%;
+	text-align : center;
+	margin-bottom : 60px;
 }
