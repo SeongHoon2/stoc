@@ -113,7 +113,7 @@ $(document).ready(function(){
     });
     
     $("#qna_talkBtn, #qna_talkDiv").on("click", function(){
-    	window.open("https://open.kakao.com/o/spfFTnWe", "_blank");
+    	window.open("https://open.kakao.com/o/skkw8oWe", "_blank");
     });
     
     $("#qna_naverBtn, #qna_naverDiv").on("click", function(){
@@ -163,7 +163,7 @@ function sendMail(){
 	    </div>
 		<div class="quick_00 quick_5">
 		<span style="color:#024C8B;">상담 시간</span><br>
-		09:00 ~ 18:00
+		24시간
 	    </div>
     </div>
 	<div class="mgtDiv"></div>
