@@ -27,8 +27,12 @@
     object-fit: cover;
 }
 
+.swiper-slide1 img{
+	margin-top : 0px;
+}
+
 .swiper-slide1{
-	background-color : #B8E9FF;
+	/*background-color : #B8E9FF;*/
 }
 
 .swiper-slide2{

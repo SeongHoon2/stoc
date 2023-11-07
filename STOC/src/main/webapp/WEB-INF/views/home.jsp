@@ -244,9 +244,11 @@ function sendMail(){
 			<button class="galAddBtn">+ 갤러리 더보기</button>
 		</div>
 	</div>
+	<!--
 	<div class="homeDiv2">
 		<img alt="slide1" src="/resources/img/infoBanner.png">		
 	</div>
+	 -->
 	<div class="homeDiv3_top">
 		<문의하기>
 	</div>	
