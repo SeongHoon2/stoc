@@ -7,6 +7,6 @@ public class SMTPAuthenticatior extends Authenticator{
  
     @Override
     protected PasswordAuthentication getPasswordAuthentication() {
-        return new PasswordAuthentication("p1center@ellevtech.cafe24.com","seo50055005!");
+        return new PasswordAuthentication("stoc@yonggi0607.cafe24.com","dptmdptm1010!");
     }
 }
