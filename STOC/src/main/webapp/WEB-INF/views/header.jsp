@@ -24,7 +24,7 @@ $(document).ready(function(){
 				<button class="menuBtn" id="infoBtn">소개</button>&nbsp;&nbsp;
 				<button class="menuBtn" id="galleryBtn">현장갤러리</button>&nbsp;&nbsp;
 				<button class="menuBtn" id="serviceBtn">서비스</button>&nbsp;&nbsp;
-				<button class="menuBtn" id="qnaBtn">문의/신청</button>
+				<button class="menuBtn" id="qnaBtn">문의</button>
 			</div>
 		</div>
 	</div>

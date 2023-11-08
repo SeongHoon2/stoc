@@ -175,9 +175,6 @@ function sendMail(){
 	    <div class="swiper-slide swiper-slide2">
 	    	<img alt="slide1" src="/resources/img/slide2.png">
 	    </div>
-	    <div class="swiper-slide swiper-slide3">
-	    	<img alt="slide1" src="/resources/img/slide3.png">
-	    </div>
 	  </div>
 	  <div class="swiper-button-next"></div>
 	  <div class="swiper-button-prev"></div>
@@ -244,11 +241,6 @@ function sendMail(){
 			<button class="galAddBtn">+ 갤러리 더보기</button>
 		</div>
 	</div>
-	<!--
-	<div class="homeDiv2">
-		<img alt="slide1" src="/resources/img/infoBanner.png">		
-	</div>
-	 -->
 	<div class="homeDiv3_top">
 		<문의하기>
 	</div>	
