@@ -190,7 +190,7 @@ function sendMail(){
 					<img alt="gallery1" src="/resources/img/gallery1.png"><br>
 				</div>
 				<div class="homeDiv1_mid_imgDiv_bot">
-					<span>- 스크립트 전달해주시면 수정하겠습니다.</span>
+					<span>- 카카오모빌리티 동시통역</span>
 				</div>
 			</div>
 			<div class="homeDiv1_mid_imgDiv">
@@ -198,7 +198,7 @@ function sendMail(){
 					<img alt="gallery2" src="/resources/img/gallery2.png"><br>
 				</div>
 				<div class="homeDiv1_mid_imgDiv_bot">
-					<span>- 스크립트 전달해주시면 수정하겠습니다.</span>
+					<span>- 홍익대학교 Design Competitiond 영어속기</span>
 				</div>
 			</div>
 			<div class="homeDiv1_mid_imgDiv">
@@ -206,7 +206,7 @@ function sendMail(){
 					<img alt="gallery3" src="/resources/img/gallery3.png"><br>
 				</div>
 				<div class="homeDiv1_mid_imgDiv_bot">
-					<span>- 스크립트 전달해주시면 수정하겠습니다.</span>
+					<span>- SBS 더아이돌 밴드 동시통역</span>
 				</div>
 			</div>
 		</div>
@@ -216,7 +216,7 @@ function sendMail(){
 					<img alt="gallery4" src="/resources/img/gallery4.png"><br>
 				</div>
 				<div class="homeDiv1_mid_imgDiv_bot">
-					<span>- 스크립트 전달해주시면 수정하겠습니다.</span>
+					<span>- 한국경제 스트롱포럼</span>
 				</div>
 			</div>
 			<div class="homeDiv1_mid_imgDiv">
@@ -224,7 +224,7 @@ function sendMail(){
 					<img alt="gallery5" src="/resources/img/gallery5.png"><br>
 				</div>
 				<div class="homeDiv1_mid_imgDiv_bot">
-					<span>- 스크립트 전달해주시면 수정하겠습니다.</span>
+					<span>- 장애인의 날 기념행사</span>
 				</div>
 			</div>
 			<div class="homeDiv1_mid_imgDiv">
@@ -232,7 +232,7 @@ function sendMail(){
 					<img alt="gallery6" src="/resources/img/gallery6.png"><br>
 				</div>
 				<div class="homeDiv1_mid_imgDiv_bot">
-					<span>- 스크립트 전달해주시면 수정하겠습니다.</span>
+					<span>- 한국장애인고용공단 강의 속기</span>
 				</div>
 			</div>
 		</div>
@@ -253,6 +253,8 @@ function sendMail(){
 			<div class="homeDiv3_1_r">
 				<input type="radio" class="gubun" name="gubun" value="실시간 속기">
 				<span>실시간 속기</span>&nbsp;&nbsp;&nbsp;&nbsp;
+				<input type="radio" class="gubun" name="gubun" value="문자 통역">
+				<span>문자 통역</span>&nbsp;&nbsp;&nbsp;&nbsp;
 				<input type="radio" class="gubun" name="gubun" value="방송 프리뷰">
 				<span>방송 프리뷰</span>&nbsp;&nbsp;&nbsp;&nbsp;
 				<input type="radio" class="gubun" name="gubun" value="외국어 자막 송출">
